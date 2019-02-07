@@ -1,3 +1,9 @@
 1. The web is very different from the internet. The internet is made up of devices, or routers, communicating with other devices. It is a way to share information or comunicate from computer to computer. It is also the platform that is used for the web. The web is a reference to the way documents and information is linked. The web is a way to reach websites. It is a way to reach information. 
 
-2. The internet is extremely physical it is a link between devices. Somewhere routers from one platform are plugged into routers from other platforms so that their information can communicate through the internet. The interenet is international 
+2. The internet is extremely physical. It is a link between devices. Somewhere routers from one platform are plugged into routers from other platforms so that their information can communicate through the internet. The interenet is internationally linked from country to country through cords that span under the ocean. All of this is done so routers can communicate with one another and we can be routed to the information we need. 
+
+3. A directory is the same thing as a folder but while discussing the file system for web design we often refer to them as directories. Directories are where we will store all of our data.
+
+4. Using Version Control System is beneficial because it allows anyone working on the project to see previous versions of the code. You can see excatly how the new version is different from the old. 
+
+5. I took a portion of this class last semester and I am still amazed at the fact that the internet is a physical and intensive process! It is amazing that engineers work so hard to give the masses something that seems so intangible.
