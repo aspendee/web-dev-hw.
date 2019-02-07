@@ -1,1 +1,3 @@
-This is my first assignment
+1. The web is very different from the internet. The internet is made up of devices, or routers, communicating with other devices. It is a way to share information or comunicate from computer to computer. It is also the platform that is used for the web. The web is a reference to the way documents and information is linked. The web is a way to reach websites. It is a way to reach information. 
+
+2. The internet is extremely physical it is a link between devices. Somewhere routers from one platform are plugged into routers from other platforms so that their information can communicate through the internet. The interenet is international 
